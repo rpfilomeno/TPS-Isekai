@@ -5,6 +5,9 @@ The Philippine Simulator [TPS] - "Simulator"
 This is a work in progress to create a 3rd person rpg game using TPS Models.
 
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AnIskBhwdoc/0.jpg)](https://www.youtube.com/watch?v=AnIskBhwdoc)
+
+
 ## Requirements
 
 * [UniVRM](https://github.com/vrm-c/UniVRM) - [release for Unity-2019.4.LTS or later](https://github.com/vrm-c/UniVRM/releases) - Imports VRM models from VRoid exports.
