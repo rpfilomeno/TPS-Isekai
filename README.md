@@ -1,5 +1,8 @@
 # TPS-Isekai
 
+[![Join the chat at https://gitter.im/rpfilomeno/TPS-Isekai](https://badges.gitter.im/rpfilomeno/TPS-Isekai.svg)](https://gitter.im/rpfilomeno/TPS-Isekai?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+
 The Philippine Simulator [TPS] - "Simulator"
 
 This is a work in progress to create a 3rd person rpg game using TPS Models.
