@@ -8,7 +8,7 @@ The Philippine Simulator [TPS] - "Simulator"
 This is a work in progress to create a 3rd person rpg game using TPS Models.
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AnIskBhwdoc/0.jpg)](https://www.youtube.com/watch?v=AnIskBhwdoc)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AnIskBhwdoc/0.jpg)](https://www.youtube.com/watch?v=AnIskBhwdoc) [![Join the chat at https://gitter.im/rpfilomeno/TPS-Isekai](https://badges.gitter.im/rpfilomeno/TPS-Isekai.svg)](https://gitter.im/rpfilomeno/TPS-Isekai?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
 ## Requirements
